@@ -1,0 +1,12 @@
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\bin\Debug\QL_CLB_PhanTan.exe.config
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\bin\Debug\QL_CLB_PhanTan.exe
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\bin\Debug\QL_CLB_PhanTan.pdb
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.csproj.AssemblyReference.cache
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.Form1.resources
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.Properties.Resources.resources
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.csproj.GenerateResource.cache
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.exe
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.pdb
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.exe.config
+C:\Users\Admin\CSDLPT\ungdung2\QL_CLB_PhanTan\obj\Debug\QL_CLB_PhanTan.FormLogin.resources
